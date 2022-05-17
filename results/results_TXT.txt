@@ -1,0 +1,32 @@
+net.optimized_memory = 0 
+mini_batch = 1, batch = 12, time_steps = 1, train = 0 
+Create CUDA-stream - 0 
+ Create cudnn-handle 0 
+
+ seen 64, trained: 160 K-images (2 Kilo-batches_64) 
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/mydrive/CarLogo/testing/Audi_0.jpg: Predicted in 89.368000 milli-seconds.
+Audi: 100%	(left_x:  430   top_y:  265   width:  127   height:   46)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/mydrive/CarLogo/testing/Honda_0.jpg: Predicted in 89.391000 milli-seconds.
+Honda: 97%	(left_x:  214   top_y:  275   width:   30   height:   35)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/mydrive/CarLogo/testing/lexus_001.jpg: Predicted in 89.859000 milli-seconds.
+Lexus: 47%	(left_x:  178   top_y:  137   width:   19   height:   17)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/mydrive/CarLogo/testing/mercedes_0.jpg: Predicted in 89.891000 milli-seconds.
+Mercedes: 89%	(left_x: 1335   top_y:  661   width:   50   height:   52)
+Enter Image Path:  Detection layer: 82 - type = 28 
+ Detection layer: 94 - type = 28 
+ Detection layer: 106 - type = 28 
+/mydrive/CarLogo/testing/Toyota_001.jpg: Predicted in 89.563000 milli-seconds.
+Toyota: 100%	(left_x:  510   top_y:  233   width:   30   height:   30)
+Enter Image Path: 

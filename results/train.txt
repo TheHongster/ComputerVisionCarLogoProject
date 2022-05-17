@@ -1,0 +1,5 @@
+/mydrive/CarLogo/testing/Audi_0.jpg
+/mydrive/CarLogo/testing/Honda_0.jpg
+/mydrive/CarLogo/testing/lexus_001.jpg
+/mydrive/CarLogo/testing/mercedes_0.jpg
+/mydrive/CarLogo/testing/Toyota_001.jpg
