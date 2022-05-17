@@ -6,7 +6,7 @@ https://github.com/AlexeyAB/darknet
 
 https://github.com/developer0hye/Yolo_Label
 
-We used 5 car logos, (Toyota, Honda, Audi, Lexus, and Mercedes), for our detection weights with 200 images per logo as a training dataset scraped from Google image searching.
+We used 5 car logos (Toyota, Honda, Audi, Lexus, and Mercedes), for our logo detection and trained using 200 images per logo. The training datset was scraped from Google images.
 ## Usage
 To properly run the car logo detection, you will need Google Colab to view the .ipynb file alongside and Google Drive account to properly arrange the directories as specified in the readme section within the Stage 4 .ipynb file:
 
